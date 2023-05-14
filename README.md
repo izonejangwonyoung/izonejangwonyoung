@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm eric shim
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izonejangwonyoung&count_private=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2000shim)](https://solved.ac/2000shim/)
 
 
 
