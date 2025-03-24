@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm eric shim
 <a href="https://www.abuseipdb.com/user/194225" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/194225.svg" alt="AbuseIPDB Contributor Badge" style="width: 405px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
+	<img src="https://www.abuseipdb.com/contributor/194225.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
 </a>
 <!--
 **izonejangwonyoung/izonejangwonyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
